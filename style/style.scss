@@ -297,9 +297,9 @@ header {
         position: absolute;
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content: none;
         align-items: center;
-        text-align: center;
+        text-align: right;
         user-select: none;
         width: var(--width-height);
         height: var(--width-height);
